@@ -1,3 +1,6 @@
-# The pdf detials all the necessary information for learning abstract Finite element method
+# Abstract Finite element method notes
 
-# No AI is used for writing or the math presented in the notes
+The pdf details all the necessary information for learning abstract Finite element method
+
+
+**No AI is used for writing or the math presented in the notes**
